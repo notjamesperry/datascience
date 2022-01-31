@@ -10,3 +10,9 @@ All my data science junk
   - Created a "Payroll Template". Every Pay period, data for the income from each project is downloaded and portioned out according to the points distribution for that project. Use the "Payroll template" which contains the spreadsheet relationships we established, and enter copy the video income into it.
   - Entered the totals calculated for each individual into our payroll system and got everyone paid.
 - DUE TO SENSITIVE INFORMATION: I cannot display the spreadsheet workbook publicly. Please contact me for a preview where real numbers have been changed. Thanks!
+
+### Payroll Template
+![Payroll Template](https://github.com/notjamesperry/datascience/blob/main/images/Payroll%20Template%20Screenshot.png)
+
+### Video Template
+![Video Template](https://github.com/notjamesperry/datascience/blob/main/images/Video%20Template%20Screenshot.png)
