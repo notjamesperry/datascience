@@ -12,7 +12,7 @@ All my data science junk
 - DUE TO SENSITIVE INFORMATION: I cannot display the spreadsheet workbook publicly. Please contact me for a preview where real numbers have been changed. Thanks!
 
 ### Payroll Template
-![Payroll Template](https://github.com/notjamesperry/datascience/blob/main/images/Payroll%20Template%20Screenshot.png)
+![Payroll Template](/images/Payroll%20Template%20Screenshot.png)
 
 ### Video Template
-![Video Template](https://github.com/notjamesperry/datascience/blob/main/images/Video%20Template%20Screenshot.png)
+![Video Template](/images/Video%20Template%20Screenshot.png)
