@@ -104,7 +104,8 @@ FROM
 I created a map of all data, with a state layer and a metro layer, allowing you to drill down through the state layer in the metro area. I wanted to cleary see the highest and lowest value per state and per metro area within each state. The only interesting finding for seeing the metro areas across states, in my opinion, was to see the minimum and maximum, so I went ahead and displayed those for both state and metro area.
 Unfortuantely, Hawaii is one of the minimums and is off the map for the default view.
 
-[BEST/WORST TRUE INCOME areas of the US](https://public.tableau.com/views/BESTWORSTTRUEINCOMEareasoftheUS/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[BEST/WORST TRUE INCOME areas of the US](https://public.tableau.com/views/BESTWORSTTRUEINCOMEareasoftheUS/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+
 Here is a preview. Please follow the above link to explore the data yourself.
 ![Picture of Tableau maps](/images/Dashboard%20IncomeCost.png)
 
