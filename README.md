@@ -4,13 +4,19 @@ Welcome to all my data science junk!
 
 
 ## Project 2 - Tableau - Compensation Plan
-### PROBLEM: 
+
+### PROBLEM
 I was interested in answering this question: Where would the average person have the highest AVERAGE SPENDING POWER? (because it doesn't matter that your income is twice as high if your costs are twice as high)
-### SOLUTION:
-  #### COLLECT THE DATA:
-  I searched all over the US government websites until I found enough data to get interesting insights. I would have rather had data on the city level, but that was not available. I finally found metro area data for both income and cost of living (at least RPP) to start coming to conclusions.
-  #### CLEAN THE DATA
-  I brought the tables into a database and used SQL queries to get a processed version of the data, knowing that I would need both the metro areas and the states so I could group the areas by state in Tableau
+
+### SOLUTION
+  
+**COLLECT THE DATA**
+
+I searched all over the US government websites until I found enough data to get interesting insights. I would have rather had data on the city level, but that was not available. I finally found metro area data for both income and cost of living (at least RPP) to start coming to conclusions.
+  
+**CLEAN THE DATA**
+
+I brought the tables into a database and used SQL queries to get a processed version of the data, knowing that I would need both the metro areas and the states so I could group the areas by state in Tableau
 ```
 /*
 CREATE TABLE vast-mapper-337320.income_v_cost.states (
@@ -100,16 +106,18 @@ FROM
     ) as rpp_msa_clean
 ```
 
-#### VISUALISE THE DATA
+**VISUALISE THE DATA**
+
 I created a map of all data, with a state layer and a metro layer, allowing you to drill down through the state layer in the metro area. I wanted to cleary see the highest and lowest value per state and per metro area within each state. The only interesting finding for seeing the metro areas across states, in my opinion, was to see the minimum and maximum, so I went ahead and displayed those for both state and metro area.
 Unfortuantely, Hawaii is one of the minimums and is off the map for the default view.
 
 [BEST/WORST TRUE INCOME areas of the US](https://public.tableau.com/views/BESTWORSTTRUEINCOMEareasoftheUS/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 Here is a preview. Please follow the above link to explore the data yourself.
-![Picture of Tableau maps](/images/Dashboard%20IncomeCost.png)
+![Picture of Tableau maps](../main/images/Dashboard%20IncomeCost.png)
 
-#### HOW I WOULD IMPROVE
+**HOW I WOULD IMPROVE**
+
 - I would want data for all areas of the state, preferably cities if I could find the data.
 - Beautiful design is not my strength, and I would like it to look better.
 - I would figure out a way to display Hawaii and Alaska next to the US map.
