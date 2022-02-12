@@ -114,7 +114,7 @@ Unfortuantely, Hawaii is one of the minimums and is off the map for the default 
 [BEST/WORST TRUE INCOME areas of the US](https://public.tableau.com/views/BESTWORSTTRUEINCOMEareasoftheUS/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 Here is a preview. Please follow the above link to explore the data yourself.
-![Picture of Tableau maps](../main/images/Dashboard%20IncomeCost.png)
+![Picture of Tableau maps](https://github.com/notjamesperry/datascience/blob/7aa9c24ac8c2258984771deed968cab7fcabd6fc/images/Dashboard%20IncomeCost.png)
 
 **HOW I WOULD IMPROVE**
 
