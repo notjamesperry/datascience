@@ -3,7 +3,7 @@ Welcome to all my data science junk!
 
 
 
-## Project 2 - Tableau - Compensation Plan
+## Project 2 - Tableau - "True Income" by US Area
 
 ### PROBLEM
 I was interested in answering this question: Where would the average person have the highest AVERAGE SPENDING POWER? (because it doesn't matter that your income is twice as high if your costs are twice as high)
