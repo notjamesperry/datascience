@@ -1,5 +1,5 @@
 # James Perry - Data Science Portfolio
-Welcome to all my data science junk!
+Welcome to all my data science junk! This is my portfolio in progress.
 
 
 
